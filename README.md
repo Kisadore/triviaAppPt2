@@ -1,10 +1,10 @@
-# Project 4 - *Trivia Part2*
+# Project 4 - *Trivia Pt.2*
 
 Submitted by: **Kiahna Isadore**
 
-**Name of your app** is an app that fetches real trivia data from the Open Trivia Database API. where a user should be able to view the next question after tapping on an answer, and answer at least 5 different questions. In addition to be able to track which question they're currently on and how much they have left, view how many questions they got correct after they've answered all the questions and restart the game after they've finished answering all questions
+**Trivia Pt.2** is a continuation of the Trivia App pt.1 but now fetches real trivia data from the Open Trivia Database API, in addition to a couple required add on features. 
 
-Time spent: **18** hours spent in total
+Time spent: **12** hours spent in total
 
 ## Required Features
 
