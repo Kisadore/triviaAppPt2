@@ -27,7 +27,6 @@ The following **optional** features are implemented:
 
 <div>
     <a href="https://www.loom.com/share/77506e139cd54c9197f9f9842ce126a1">
-      <p>triviaAppPt2 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/77506e139cd54c9197f9f9842ce126a1">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/77506e139cd54c9197f9f9842ce126a1-with-play.gif">
